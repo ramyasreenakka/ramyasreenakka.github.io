@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Research
+  url: /research/
+
+
+- title: CV
+  url: /reports/Resume.pdf
+
+
+- title: Contact
+  url: /contact/
+
+- title: Blog
+  url: /blog/
+
