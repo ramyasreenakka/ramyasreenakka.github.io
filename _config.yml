@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:    KrishnaKanth Nakka        
+title:    RamyaSree Nakka        
 locale:           en_US
-url: https://krishnakanthnakka.github.io
+url: https://ramyasreenakka.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -24,26 +24,26 @@ kramdown:
 
 # Site owner
 owner: 
-  name: Krishna Kanth Nakka
+  name: Ramya Sree Nakka
   avatar: bio2.jpg
-  position: Doctoral Student 
-  school: CVLab, EPFL
-  place: Lausanne, Switzerland
+  position: Business Associate 
+  school: Accenture
+  place: Hyderabad, India
   bio: 
-  email: krishna.nakka@epfl.ch
-  disqus-shortname: KK
+  email: ramyasreenakka1995@gmail.com
+  disqus-shortname: Ramya
   twitter: 
   facebook: 
   google:
     plus: 
-    analytics: UA-125946091-1
+    analytics: 
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: 
   stackoverflow: 
-  linkedin: krishna-kanth-nakka-b73a4b44/
+  linkedin: /
   xing: #username
   instagram: #username
   lastfm: #username
